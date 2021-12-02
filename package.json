@@ -1,16 +1,16 @@
 {
-  "name": "filmoteka",
+  "name": "filmoteka-civ-team",
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://alinabihdan.github.io/filmoteka/",
+  "homepage": "https://Sergey-Markov.github.io/filmoteka-civ-team/",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /filmoteka/"
+    "build": "parcel build src/*.html --public-url /filmoteka-civ-team/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alinabihdan/filmoteka.git"
+    "url": "git+https://github.com/Sergey-Markov/filmoteka-civ-team.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
